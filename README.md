@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning HTML | CSS |JavaScript | React.Js
 - 🔭 I am not working at any company right now
-- 📫 How to reach me: Discord => Wesley Alves Rolim #2960
+- 📫 How to reach me: Discord => Rubens#6035
 and in my [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&color=14274e&link=https://www.linkedin.com/in/wesley-alves-rolim-2bba1b209)](https://www.linkedin.com/in/rubens-abimael-5a36341ab/)
 
 **Languages and Tools:**
