@@ -13,32 +13,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"/>, I'm <a href="https://github.com/Rubensabimael">Rubens Abimael </a></h1>
+## Olá! Eu sou o Rubens 👍
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubens-abimael/)
 
-<h3 align="center">I'm a passionate Front-End web developer.</h3>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rubens.abimael/)
 
-- 🌱 I’m currently learning HTML | CSS |JavaScript | React.Js
-- 🔭 I am not working at any company right now
-- 📫 How to reach me: Discord => Rubens#6035
-and in my [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&color=14274e&link=https://www.linkedin.com/in/wesley-alves-rolim-2bba1b209)](https://www.linkedin.com/in/rubens-abimael-5a36341ab/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rubesabinael.franca/)
 
-**Languages and Tools:**
+![Rubens's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubensDev&show_icons=true&theme=tokyonight)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-**I wanna learn:**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+## Tecnologias que eu uso no meu dia
 
-<a href="https://github.com/Rubensabimael?tab=repositories" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wesley-AlvesRolim&show_icons=true&theme=tokyonight"/>
-</a>
+<div style="display: inline_block">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+</div><br/>
 
-<a href="https://github.com/Rubensabimael" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesley-AlvesRolim&layout=compact&theme=material-palenight"/>
-</a>
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+
+
+
