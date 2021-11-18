@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação. 😄
 
+<hr>
+
 
 
 
